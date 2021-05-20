@@ -3,7 +3,7 @@
 
 <div align="center" id="firstcontact">
 <p>When I first met programming, it was love at first sight. The possibility to tell a machine to solve my math problems in moments was magical. 🧙‍♂️</p>
-</div>
+</div><br>
 
  - 📍 Living In **São Paulo - SP**
  - 🤖 Studing and **Developing Helpfull**, that is an Social Projects Plataform.
