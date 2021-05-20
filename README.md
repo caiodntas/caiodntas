@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Welcome to My Profile! 🤙🏼</h1>
+<h4 align="center">Hi! I am Caio Dantas, from Brazil. 🌎 I'm a Technical Student of Systems Development almost graduated.</h4>
 
-<!--
-**caiodntas/caiodntas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" id="firstcontact">
+<p>When I first met programming, it was love at first sight. The possibility to tell a machine to solve my math problems in moments was magical. 🧙‍♂️</p>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 📍 Living In **São Paulo - SP**
+ - 🤖 Studing and **Developing Helpfull**, that is an Social Projects Plataform.
+ 
+##
+<div align="center">
+<a href = "mailto: caiodantasprofissional@outlook.com"><img src="https://img.shields.io/badge/outlook-1981CD?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/caiodntas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/caiodntas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
