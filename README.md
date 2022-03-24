@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to My Profile! 🤙🏼</h1>
-<h4 align="center">Hi! I am Caio Dantas, from Brazil. 🌎 I'm a Technical Student of Systems Development almost graduated.</h4>
+<h4 align="center">Hi! I am Caio Dantas, from Brazil. 🌎 I'm a Undergraduate Student of Computer Cience.</h4>
 
 <div align="center" id="firstcontact">
 <p>When I first met programming, it was love at first sight. The possibility to tell a machine to solve my math problems in moments was magical. 🧙‍♂️</p>
