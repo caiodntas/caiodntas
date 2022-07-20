@@ -5,7 +5,8 @@
 <p>When I first met programming, it was love at first sight. The possibility to tell a machine to solve my math problems in moments was magical. 🧙‍♂️</p>
 </div><br>
 
- - 📍 Living In **São Paulo - SP**
+ - 📍 Living In **São Paulo - SP**.
+ - 🎒 Techinical in **System Development** by **Etec of Sapopemba**.
  - 📚 Studing **Computer Science** at **Universidade São Judas Tadeu**.
  - 💼 Interning at **RTM - Rede de Telecomunicações** in internal support.
  
