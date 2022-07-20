@@ -6,7 +6,8 @@
 </div><br>
 
  - 📍 Living In **São Paulo - SP**
- - 🤖 Studing and **Developing Helpfull**, that is an Social Projects Plataform.
+ - 📚 Studing **Computer Science** at **Universidade São Judas Tadeu**.
+ - 💼 Interning at **RTM - Rede de Telecomunicações** in internal support.
  
 ##
 <div align="center">
